@@ -1,0 +1,6 @@
+.vscode
+node_modules
+build
+client/node_modules
+client/src/tailwind.css
+.env
