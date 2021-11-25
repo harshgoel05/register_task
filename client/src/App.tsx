@@ -1,7 +1,9 @@
+import Login from './screens/Login';
+
 function App() {
   return (
     <>
-      <p>Hello World!</p>
+      <Login></Login>
     </>
   );
 }
